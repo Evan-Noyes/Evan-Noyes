@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm a third-year student pursuing a degree in Computer Science at the University of Cincinnati. I have an unwavering passion for all things tech-related. In today's digital age, technology plays a pivotal role in shaping our world, and I'm eager to be part of the innovation that drives progress. The endless possibilities that technology offers intrigue me, and I'm excited about the opportunities it brings to communities worldwide. My academic journey has equipped me with a strong work ethic, a foundation in computer science principles, and a hunger for hands-on experience. I see internships as the perfect opportunity to bridge the gap between theory and practice, and I'm thrilled at the prospect of taking on new challenges.
 
 <!--
 **Evan-Noyes/Evan-Noyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
